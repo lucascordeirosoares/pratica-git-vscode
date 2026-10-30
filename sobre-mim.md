@@ -11,3 +11,7 @@ Olá! Eu sou Lucas Soares e estudo Análise e Desenvolvimento de Sistemas.
 - HTML
 - PHP
 - Cloud
+
+## Meu objetivo no curso
+
+Quero me tornar um excelente profissional na minha area

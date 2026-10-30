@@ -1,3 +1,13 @@
 # Sobre mim
 
 Olá! Eu sou Lucas Soares e estudo Análise e Desenvolvimento de Sistemas.
+
+## Tecnologias que quero aprender
+
+- Python
+- Java
+- JavaScript
+- CSS
+- HTML
+- PHP
+- Cloud

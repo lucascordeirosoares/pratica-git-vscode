@@ -1,3 +1,13 @@
+<!-- certificado:inicio -->
+> ## 🎓 Curso concluído!
+>
+> **@lucascordeirosoares** concluiu o curso prático **Git no VS Code**, da Profª Maristela Oliveira · Faculdade de Tecnologia e Inovação Senac DF.
+>
+> ### 👉 [Ver o meu certificado](https://maristelaoliveira.github.io/curso-github/certificado.html?aluno=lucascordeirosoares&curso=vscode)
+>
+> O certificado **fica sempre neste endereço**: lá você baixa a imagem e compartilha no LinkedIn. Todos os seus certificados: [Meus certificados](https://maristelaoliveira.github.io/curso-github/certificado.html?aluno=lucascordeirosoares).
+<!-- certificado:fim -->
+
 # <img src="https://maristelaoliveira.github.io/assets/img/octocat-stela.webp" width="40" height="40" alt="Octocat da Stela" align="absmiddle"> 💻 Git no VS Code: o dia a dia
 
 <img src="https://maristelaoliveira.github.io/curso-github/assets/memoji.png" width="90" align="right" alt="Memoji da Profª Stela">

@@ -28,3 +28,5 @@ Dúvidas? Veja o módulo 4 do [Curso de GitHub](https://maristelaoliveira.github
 2. Em **Repository name**, escreva `pratica-git-vscode`
 3. Deixe marcado **Public** e clique em **Create repository**
 4. Espere uns 20 segundos e abra a aba **Issues** do **seu** repositório novo: a sua primeira tarefa vai estar lá! 📬
+
+Editado no site ✔
